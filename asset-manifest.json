@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b526f5.css",
+    "main.js": "/static/js/main.dd25354a.js",
+    "static/js/453.1ddb8d7e.chunk.js": "/static/js/453.1ddb8d7e.chunk.js",
+    "static/media/ejicons.svg?-dzszjm": "/static/media/ejicons.6fb000853bc3948d9818.svg",
+    "static/media/ejicons.eot": "/static/media/ejicons.5bbe22dfb8bb4f9b0871.eot",
+    "static/media/ejicons.woff": "/static/media/ejicons.3b98a2faffcbfe55af4c.woff",
+    "static/media/ejicons.ttf?-dzszjm": "/static/media/ejicons.108c408c90d9a9315d63.ttf",
+    "static/media/waitingpopup.gif": "/static/media/waitingpopup.925d5cb9da5436bb14ac.gif",
+    "static/media/colorpicker_light_material.png": "/static/media/colorpicker_light_material.453c5e316168f18ffdcd.png",
+    "static/media/ajax-loader.gif": "/static/media/ajax-loader.da8be1b3d7c00753a019.gif",
+    "static/media/dropPointer.cur": "/static/media/dropPointer.96bcda403ea23af8d162.cur",
+    "static/media/errorIcon.svg": "/static/media/errorIcon.58be25a65a5e28bc1ef5.svg",
+    "static/media/alertIcon.svg": "/static/media/alertIcon.7b5a918355bf6d706d28.svg",
+    "static/media/ej-reportviewericons.eot?wpa4ep": "/static/media/ej-reportviewericons.b2fe20309a2ffa2d922f.eot",
+    "index.html": "/index.html",
+    "static/media/ej-reportviewericons.woff?wpa4ep": "/static/media/ej-reportviewericons.67a0b99689c3c4452194.woff",
+    "static/media/ej-reportviewericons.ttf?wpa4ep": "/static/media/ej-reportviewericons.b43c23b1c6edb9cd70fb.ttf",
+    "static/media/ej-reportviewericons.svg?wpa4ep": "/static/media/ej-reportviewericons.8f614f42aa834f45b12e.svg",
+    "static/media/expand.svg": "/static/media/expand.66b4b20e13024d632d2f.svg",
+    "static/media/collapse.svg": "/static/media/collapse.37ced42c835e00abe3e3.svg",
+    "main.c2b526f5.css.map": "/static/css/main.c2b526f5.css.map",
+    "main.dd25354a.js.map": "/static/js/main.dd25354a.js.map",
+    "453.1ddb8d7e.chunk.js.map": "/static/js/453.1ddb8d7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b526f5.css",
+    "static/js/main.dd25354a.js"
+  ]
+}
